@@ -1,0 +1,18 @@
+{
+    "admin": {
+        "senha": "senha123",
+        "tipo": "admin"
+    },
+    "giulia": {
+        "senha": "ggg",
+        "tipo": "usuario"
+    },
+    "giuulia": {
+        "senha": "rrr",
+        "tipo": "admin"
+    },
+    "igor": {
+        "senha": "igor",
+        "tipo": "usuario"
+    }
+}
