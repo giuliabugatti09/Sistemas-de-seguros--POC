@@ -56,7 +56,6 @@ sistema_seguros/
 │   ├── apolices.json
 │   ├── seguros.json
 │   └── sinistros.json
-└── requirements.txt
 ```
 
 ### Validações Implementadas
@@ -66,10 +65,6 @@ sistema_seguros/
 
 ## ⚙️ Pré-requisitos
 - Python 3.8+
-- Bibliotecas:
-  ```bash
-  pip install -r requirements.txt
-  ```
 
 ## 🖥️ Como Executar
 1. Clone o repositório
